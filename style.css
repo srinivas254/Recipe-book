@@ -1,6 +1,6 @@
 body {
   font-family: sans-serif;
-  background: url('recipe.jpg');
+  background: url('./Images/recipe.jpg');
   background-size: cover; 
   background-position: center;
   z-index:2;
